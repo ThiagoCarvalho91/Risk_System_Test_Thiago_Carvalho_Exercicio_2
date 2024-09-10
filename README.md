@@ -20,5 +20,5 @@ Este projeto foi desenvolvido como parte de um teste. Ele simula um sistema de c
 4. Siga as instruções no console para inserir as transações.
 
 ## Contato
-- Email: thiago@exemplo.com
+- Email: t.carvalhos@hotmail.com
 - GitHub: [ThiagoCarvalho91](https://github.com/ThiagoCarvalho91)
